@@ -2,7 +2,7 @@
 
 ## Projects:
 
-- **CV Igor Bochenkov**
+- **[CV Igor Bochenkov](https://igor-bochenkov.github.io/igor-bochenkov-cv/)**
 
   Персональная страница CV
 
@@ -29,3 +29,5 @@
 - **[CSS Meme Slider](https://github.com/igor-bochenkov/slider-meme-css)**
 
   Слайдер мемов, написанный на чистом HTML и CSS **(без использования JS)**. Рeализованы плавные анимации для смены картинок по клику на контролы. Имеется мобильная версия слайдера.
+
+  https://igor-bochenkov.github.io/
